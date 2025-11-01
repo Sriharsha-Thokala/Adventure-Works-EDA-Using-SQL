@@ -6,11 +6,11 @@ This project demonstrates Exploratory Data Analysis (EDA) using pure SQL on a da
 The goal is to uncover insights into sales performance, customer behavior, product profitability, and geographical trends using structured SQL queries only (no BI tools or Python).
 
 🎯 Objectives:
-Understand the structure and relationships between key business entities
-Explore sales trends, profitability, and customer demographics
-Perform data profiling (ranges, counts, unique values, etc.)
-Create key performance metrics (KPIs) using SQL
-Rank and segment products, customers, and regions
+1. Understand the structure and relationships between key business entities
+2. Explore sales trends, profitability, and customer demographics
+3. Perform data profiling (ranges, counts, unique values, etc.)
+4. Create key performance metrics (KPIs) using SQL
+5. Rank and segment products, customers, and regions
 
 
 📊 EDA Phases and Insights
@@ -28,7 +28,8 @@ Rank and segment products, customers, and regions
 -- Identified youngest and oldest customers
 
 4️. Measures Exploration:
--- Total Sales	Overall revenue generated
+
+-- Total Sales 	Overall revenue generated
 -- Total Quantity Sold	Total number of units sold
 -- Total Profit	Difference between price and cost
 -- Total Quantity Returned	Product returns
