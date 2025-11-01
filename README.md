@@ -16,9 +16,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 📊 EDA Phases and Insights:
 
  1. Database Exploration:
-
 -- Viewed all tables and columns
-
 -- Checked completeness and integrity of data
 
 
