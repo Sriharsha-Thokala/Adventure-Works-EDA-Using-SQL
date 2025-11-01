@@ -1,0 +1,28 @@
+🗂 Database Schema
+
+📋 Tables:
+|------------------------------------------------------------------------|
+|   Table Name            |                 Description                  |
+|-------------------------|----------------------------------------------|
+| Sales                   | Contains all transaction-level sales data    |
+| Customers               | Stores customer demographic details          |
+| Products                | Holds product-level details and pricing      |
+| Product_SubCategories   | Maps products to subcategories               |
+| Categories              | Defines top-level product categories         |
+| Territory               | Describes sales regions and countries        |
+| Sales_Returns           | Tracks product returns by region and product |
+|------------------------------------------------------------------------|
+---
+
+🧩 Key Columns Overview:
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Tables           |                                 Key Columns                     |                     Description                    |
+|------------------|-----------------------------------------------------------------|----------------------------------------------------|
+| Sales            | OrderDate, ProductKey, CustomerKey, TerritoryKey, OrderQuantity | Tracks sales quantity, products, and geography     |
+| Customers        | CustomerKey, FirstName, LastName, Gender, AnnualIncome          | Contains customer demographic and income data      |
+| Products         | ProductKey, ProductName, Cost, Price                            | Used for revenue and profit calculations           |
+| Categories       | ProductCategoryKey, CategoryName                                | Defines category groupings                         |
+| Territory        | SalesTerritoryKey, Region, Country, Continent                   | Defines geographic scope                           |
+| Sales_Returns    | ReturnsDate, TerritoryKey, ProductKey, ReturnQuantity           | Measures customer returns                          |
+| Sub Categories   | SubCategoryKey, SubCategoryName, ProductCategoryKey             | Defines SubCategory Groupings                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
