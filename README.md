@@ -70,3 +70,83 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 -- SQL Optimization & Readability
 
+
+
+
+
+
+
+
+🧠 Exploratory Data Analysis (EDA) in SQL Server — Adventure Works Dataset
+
+📋 Project Overview  
+This project demonstrates Exploratory Data Analysis (EDA) using pure SQL on the Adventure Works dataset.  
+The goal is to uncover insights into sales performance, customer behavior, product profitability, and geographical trends — all using structured SQL queries only (no BI tools or Python).
+
+---
+
+🎯 Objectives
+- Understand the structure and relationships between key business entities  
+- Explore sales trends, profitability, and customer demographics  
+- Perform data profiling (ranges, counts, unique values, etc.)  
+- Create key performance metrics (KPIs) using SQL  
+- Rank and segment products, customers, and regions  
+
+---
+
+📊 EDA Phases and Insights
+
+1️⃣ Database Exploration
+- Viewed all tables and columns  
+- Checked completeness and integrity of data  
+
+2️⃣ Dimensional Exploration
+- Identified Regions, Countries, and Continents in Territory  
+- Listed all Categories, Subcategories, and Products  
+
+3️⃣ Date Exploration
+- Determined first and last order dates  
+- Calculated time range of transactions  
+- Identified youngest and oldest customers  
+
+4️⃣ Measures Exploration
+- Total Sales  
+- Total Quantity Sold  
+- Total Profit from Sales  
+- Total Quantity Returned  
+- Average Product Price  
+- Total Unique Orders Count  
+- Total Active and Inactive Customers  
+
+5️⃣ Magnitude & Distribution Analysis
+- Customers by country and gender  
+- Product sales by category  
+- Average price and revenue per category  
+- Income group segmentation (Low, Middle, High Income)  
+
+6️⃣ Ranking Analysis
+- Top 5 Performing Products  
+- Bottom 5 Products  
+- Top 10 Customers by Revenue  
+- Least Active Customers  
+
+---
+
+🧮 SQL Concepts Used
+- **Aggregate Functions:** `SUM()`, `AVG()`, `COUNT()`, `MIN()`, `MAX()`  
+- **Joins:** `INNER JOIN`, `LEFT JOIN`  
+- **Conditional Logic:** `CASE WHEN`  
+- **Grouping & Filtering:** `GROUP BY`, `HAVING`  
+- **Ranking Functions:** `DENSE_RANK()`, `TOP N`  
+- **Data Profiling:** `DISTINCT`, `INFORMATION_SCHEMA`  
+
+---
+
+💡 Skills Demonstrated
+- SQL Server Data Analysis  
+- Business Intelligence Querying  
+- Analytical Thinking  
+- Data Cleaning & Profiling  
+- Metric & KPI Development  
+- SQL Optimization & Readability
+
