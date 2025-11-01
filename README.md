@@ -13,7 +13,8 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 5. Rank and segment products, customers, and regions
 
 
-📊 EDA Phases and Insights
+📊 EDA Phases and Insights:
+
 1. Database Exploration:
 
 -- Viewed all tables and columns
@@ -73,6 +74,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 -- Business Questions Answered
 
 
+
 🧮 SQL Concepts Used:
 
 -- Aggregate Functions: SUM(), AVG(), COUNT(), MIN(), MAX()
@@ -86,6 +88,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 -- Ranking Functions: DENSE_RANK(), TOP N
 
 -- Data Profiling: DISTINCT, INFORMATION_SCHEMA
+
 
 
 🧠 Skills Demonstrated:
