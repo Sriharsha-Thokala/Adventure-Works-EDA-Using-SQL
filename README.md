@@ -15,95 +15,54 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 📊 EDA Phases and Insights:
 
- 1. Database Exploration:
--- Viewed all tables and columns
--- Checked completeness and integrity of data
-
-
+1. Database Exploration:
+   1. Viewed all tables and columns
+   2. Checked completeness and integrity of data
 
 2️. Dimensional Exploration:
-
--- Identified Regions, Countries, Continents in Territory
-
--- Listed all Categories, Subcategories, and Products
-
-
+   1. Identified Regions, Countries, Continents in Territory
+   2. Listed all Categories, Subcategories, and Products
 
 3️. Date Exploration:
-
--- Determined first and last order dates
-
--- Calculated time range of transactions
-
--- Identified youngest and oldest customers
-
-
+   1. Determined first and last order dates
+   2. Calculated time range of transactions
+   3. Identified youngest and oldest customers
 
 4️. Measures Exploration:
-
--- Total Sales 
-
--- Total Quantity Sold 	
-
--- Total Profit	from Sales 
-
--- Total Quantity Returned
-
--- Average Product Price	
-
--- Total Unique Orders 	Count
-
--- Total Active customers and Inactive Customers
-
-
+   1. Total Sales 
+   2. Total Quantity Sold
+   3. Total Profit	from Sales
+   4. Total Quantity Returned
+   5. Average Product Price
+   6. Total Unique Orders 	Count
+   7. Total Active customers and Inactive Customers
 
 5. Magnitude & Distribution Analysis:
-
--- Customers by country and gender
-
--- Product sales by category
-
--- Average price and revenue per category
-
--- Income group segmentation (Low, Middle, High Income)
-
-
+   1. Customers by country and gender
+   2. Product sales by category
+   3. Average price and revenue per category
+   4. Income group segmentation (Low, Middle, High Income)
 
 6️. Ranking Analysis:
-
--- Top 5 Performing Products
-
--- Bottom 5 Products
-
--- Top 10 Customers by Revenue
-
--- Least Active Customers
-
+   1. Top 5 Performing Products
+   2. Bottom 5 Products
+   3. Top 10 Customers by Revenue
+   4. Least Active Customers
 
 
 🧮 SQL Concepts Used:
-
--- Aggregate Functions: SUM(), AVG(), COUNT(), MIN(), MAX()
-
--- Joins: INNER JOIN, LEFT JOIN
-
--- Conditional Logic: CASE WHEN
-
--- Grouping & Filtering: GROUP BY, HAVING
-
--- Ranking Functions: DENSE_RANK(), TOP N
-
--- Data Profiling: DISTINCT, INFORMATION_SCHEMA
-
+   1. Aggregate Functions: SUM(), AVG(), COUNT(), MIN(), MAX()
+   2. Joins: INNER JOIN, LEFT JOIN
+   3. Conditional Logic: CASE WHEN
+   4. Grouping & Filtering: GROUP BY, HAVING
+   5. Ranking Functions: DENSE_RANK(), TOP N
+   6. Data Profiling: DISTINCT, INFORMATION_SCHEMA
 
 
 🧠 Skills Demonstrated:
-
--- SQL Server Data Analysis
-
--- Business Intelligence Querying
-
--- Analytical Thinking
+   1. SQL Server Data Analysis
+   2. Business Intelligence Querying
+   3. Analytical Thinking
 
 -- Data Cleaning & Profiling
 
