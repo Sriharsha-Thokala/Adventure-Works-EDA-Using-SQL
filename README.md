@@ -21,11 +21,15 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 -- Checked completeness and integrity of data
 
+
+
 2️. Dimensional Exploration:
 
 -- Identified Regions, Countries, Continents in Territory
 
 -- Listed all Categories, Subcategories, and Products
+
+
 
 3️. Date Exploration:
 
@@ -35,21 +39,25 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 -- Identified youngest and oldest customers
 
+
+
 4️. Measures Exploration:
 
--- Total Sales 	Overall revenue generated
+-- Total Sales 
 
--- Total Quantity Sold	Total number of units sold
+-- Total Quantity Sold 	
 
--- Total Profit	Difference between price and cost
+-- Total Profit	from Sales 
 
--- Total Quantity Returned	Product returns
+-- Total Quantity Returned
 
--- Average Product Price	Mean selling price
+-- Average Product Price	
 
--- Total Orders	Unique order count
+-- Total Unique Orders 	Count
 
--- Total Customers	All customers and active customers
+-- Total Active customers and Inactive Customers
+
+
 
 5. Magnitude & Distribution Analysis:
 
@@ -61,6 +69,8 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 -- Income group segmentation (Low, Middle, High Income)
 
+
+
 6️. Ranking Analysis:
 
 -- Top 5 Performing Products
@@ -70,8 +80,6 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 -- Top 10 Customers by Revenue
 
 -- Least Active Customers
-
--- Business Questions Answered
 
 
 
