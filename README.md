@@ -77,15 +77,15 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 
 
-🧠 Exploratory Data Analysis (EDA) in SQL Server — Adventure Works Dataset
+🧠 Exploratory Data Analysis (EDA) in SQL Server
 
-📋 Project Overview  
+📋 Project Overview:  
 This project demonstrates Exploratory Data Analysis (EDA) using pure SQL on the Adventure Works dataset.  
 The goal is to uncover insights into sales performance, customer behavior, product profitability, and geographical trends — all using structured SQL queries only (no BI tools or Python).
 
 ---
 
-🎯 Objectives
+🎯 Objectives:
 - Understand the structure and relationships between key business entities  
 - Explore sales trends, profitability, and customer demographics  
 - Perform data profiling (ranges, counts, unique values, etc.)  
@@ -94,7 +94,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 ---
 
-📊 EDA Phases and Insights
+📊 EDA Phases and Insights:
 
 1️⃣ Database Exploration
 - Viewed all tables and columns  
@@ -132,7 +132,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 ---
 
-🧮 SQL Concepts Used
+🧮 SQL Concepts Used:
 - **Aggregate Functions:** `SUM()`, `AVG()`, `COUNT()`, `MIN()`, `MAX()`  
 - **Joins:** `INNER JOIN`, `LEFT JOIN`  
 - **Conditional Logic:** `CASE WHEN`  
@@ -142,7 +142,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
 
 ---
 
-💡 Skills Demonstrated
+💡 Skills Demonstrated:
 - SQL Server Data Analysis  
 - Business Intelligence Querying  
 - Analytical Thinking  
