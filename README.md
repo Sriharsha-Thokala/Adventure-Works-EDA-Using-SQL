@@ -43,7 +43,7 @@ The goal is to uncover insights into sales performance, customer behavior, produ
    3. Average price and revenue per category
    4. Income group segmentation (Low, Middle, High Income)
 
-6️. Ranking Analysis:
+6. Ranking Analysis:
    1. Top 5 Performing Products
    2. Bottom 5 Products
    3. Top 10 Customers by Revenue
